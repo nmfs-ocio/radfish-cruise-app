@@ -15,7 +15,7 @@
     "date-fns": "^4.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.21.2",
+    "react-router-dom": "^6.30.4",
     "workbox-background-sync": "^7.0.0",
     "workbox-broadcast-update": "^7.0.0",
     "workbox-cacheable-response": "^7.0.0",
