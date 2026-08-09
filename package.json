@@ -68,7 +68,7 @@
     "@tanstack/react-query-devtools": "^5.62.2",
     "@testing-library/jest-dom": "6.4.2",
     "@testing-library/react": "^14.2.2",
-    "@vitejs/plugin-react": "^4.2.1",
+    "@vitejs/plugin-react": "^6.0.4",
     "babel-jest": "^29.7.0",
     "eslint": "^8.55.0",
     "eslint-plugin-prettier": "^5.0.1",
@@ -80,9 +80,9 @@
     "pptr-testing-library": "^0.8.0",
     "prettier": "^3.1.0",
     "puppeteer": "^22.6.5",
-    "vite": "^5.1.5",
-    "vite-plugin-pwa": "0.19.2",
-    "vitest": "1.4.0"
+    "vite": "^8.1.5",
+    "vite-plugin-pwa": "1.3.0",
+    "vitest": "4.1.10"
   },
   "msw": {
     "workerDirectory": "public"
